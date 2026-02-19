@@ -44,17 +44,18 @@
 
 🗂️ 패키지 구조
 
-safety_echo_kit/
-├── arduino/
-│   └── safety_echo_main/
-│       └── safety_echo_main.ino
-├── python_gui/
-│   └── controller_gui.py
-├── images/
-│   ├── prototype.jpg
-│   ├── core_kit.jpg
-│   └── gui.png
-└── README.md
+    safety_echo_kit/
+    ├── arduino/
+    │   └── safety_echo_main/
+    │       └── safety_echo_main.ino
+    ├── python_gui/
+    │   └── controller_gui.py
+    ├── images/
+    │   ├── test.jpg
+    │   ├── kit.jpg
+    │   └── gui.jpg
+    |   └── lcd.jpg
+    └── README.md
 
 🚀 실행 방법
 아두이노 설정
