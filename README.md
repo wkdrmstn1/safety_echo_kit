@@ -2,7 +2,8 @@
 
 <img src="image/test.jpg" width="600" height="400" alt="시제품 테스트 모습">
 <img src="image/kit.jpg" width="600" height="400" alt="실제 부착형 키트 모습">
-<img src="image/gui.png" width="600" height="400" alt="PyQt GUI 화면">
+<img src="image/gui.jpg" width="600" height="400" alt="PyQt GUI 화면">
+<img src="image/distance.jpg" width="600" height="400" alt="LCD를 통한 남은 거리 출력">
 
 전동 휠체어나 산업 현장 중장비의 사각지대 사고를 방지하기 위해 제작된 범용 부착형 안전거리 감지 키트입니다.
 🎈 주요 기능
