@@ -60,8 +60,8 @@
 🚀 실행 방법
 아두이노 설정
 
-• Arduino IDE에서 safety_echo_main.ino 파일 선택
-• 아두이노 우노 보드를 연결하고 코드를 업로드
+    • Arduino IDE에서 safety_echo_main.ino 파일 선택
+    • 아두이노 우노 보드를 연결하고 코드를 업로드
 
 PyQt GUI 실행 (선택/테스트용)
 Bash
